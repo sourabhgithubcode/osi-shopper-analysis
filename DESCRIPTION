@@ -1,0 +1,31 @@
+Package: OSIAnalysis
+Type: Project
+Title: Online Shopper's Intention Analysis - E-Commerce Purchase Prediction
+Version: 1.0.0
+Author: Sourabh Rodagi
+Description: Machine learning analysis of 12,330 e-commerce sessions to predict
+    purchase intent using SVM classification (98.99% accuracy) and K-Means
+    clustering. Identifies high-value customer segments with 30.5% conversion rates.
+License: MIT
+Depends:
+    R (>= 4.0.0)
+Imports:
+    tidyverse (>= 1.3.0),
+    ggplot2 (>= 3.3.0),
+    dplyr (>= 1.0.0),
+    stringr (>= 1.4.0),
+    moments (>= 0.14),
+    zoo (>= 1.8-0),
+    caret (>= 6.0-0),
+    e1071 (>= 1.7-0),
+    rpart (>= 4.1-0),
+    rpart.plot (>= 3.0.0),
+    randomForest (>= 4.6-0),
+    factoextra (>= 1.0.0),
+    pROC (>= 1.17.0)
+Suggests:
+    knitr (>= 1.30),
+    rmarkdown (>= 2.0)
+VignetteBuilder: knitr
+Encoding: UTF-8
+LazyData: true

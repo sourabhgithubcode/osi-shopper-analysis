@@ -1,0 +1,35 @@
+# ============================================================================
+# Python Requirements (Optional - for future Python expansion)
+# ============================================================================
+# This project is primarily R-based. These Python packages are optional
+# and can be used for additional analysis or visualization.
+# Install with: pip install -r requirements.txt
+# ============================================================================
+
+# Data Manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.11.0
+
+# Machine Learning (if porting analysis to Python)
+scikit-learn>=1.1.0
+scipy>=1.9.0
+
+# Jupyter Notebooks (for interactive analysis)
+jupyter>=1.0.0
+ipykernel>=6.16.0
+
+# Model Evaluation
+imbalanced-learn>=0.9.0  # For handling class imbalance
+
+# Optional: Deep Learning
+# tensorflow>=2.10.0
+# keras>=2.10.0
+
+# Optional: Advanced ML
+# xgboost>=1.7.0
+# lightgbm>=3.3.0
