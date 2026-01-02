@@ -156,7 +156,7 @@ Why It Mattered → Business Context
 - ggplot2
 - dplyr
 
-## 📊 Sample Visuals
+## 📊 Meaning customer Intentions clusters 
 
 <img width="799" height="557" alt="Screenshot 2026-01-01 at 8 18 24 PM" src="https://github.com/user-attachments/assets/1962a63e-0fde-4ecd-8aa9-18194f6d6727" />
 
