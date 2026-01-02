@@ -10,7 +10,7 @@ Why It Mattered → Business Context
   This project analyzed 12,330 real-world shopping sessions to predict purchase intent and segment users by behavior—enabling data-driven strategies to boost conversion rates and reduce wasted marketing dollars.
 
   ---
-  What You Did → Tools + Your Role
+  What I Did → Tools + My Role
 
   Role: Data Analyst & ML Engineer
   Objective: Build a predictive model to classify purchase intent and identify high-value customer segments
@@ -28,7 +28,7 @@ Why It Mattered → Business Context
   - Comprehensive analysis report with actionable business recommendations
 
   ---
-   How You Did It → Focus on Thinking + Key Decisions
+   How I Did It → Focus on Thinking + Key Decisions
 
   1. Strategic Data Cleaning (Not Just Mechanical)
 
@@ -125,7 +125,7 @@ Why It Mattered → Business Context
   - Optimizing PageValues pages could lift overall conversion by 5-10% (based on correlation strength)
 
   ---
-   What You Learned → Show Growth Mindset
+   What I Learned → Show Growth Mindset
 
   Technical Growth:
 
@@ -157,7 +157,9 @@ Why It Mattered → Business Context
 - dplyr
 
 ## 📊 Sample Visuals
-(Add images if you saved your plots as PNG/JPEG)
+
+<img width="799" height="557" alt="Screenshot 2026-01-01 at 8 18 24 PM" src="https://github.com/user-attachments/assets/1962a63e-0fde-4ecd-8aa9-18194f6d6727" />
+
 
 ## 📦 Installation & Run
 ```R
